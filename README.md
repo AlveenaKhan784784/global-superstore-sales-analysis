@@ -15,7 +15,7 @@ The **Global Superstore** dataset simulates global retail operations, containing
 This dataset is ideal for practicing data cleaning, exploratory data analysis, and visualization skills for business reporting.
 
 ### Dataset Summary:
-- **Data File**: (https://www.kaggle.com/datasets/khaledramadanali22/global-superstore-dataset)[superstore.csv]
+- **Data File**: [Kaggle's Global Superstore dataset](https://www.kaggle.com/datasets/khaledramadanali22/global-superstore-dataset)
 - **Rows**: [51290]
 - **Columns**:  [27]
 
